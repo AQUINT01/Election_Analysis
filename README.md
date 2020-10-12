@@ -32,7 +32,7 @@ After all the votes are counted, your job is to generate an audit report to cert
 
   
 ## Election-Audit Summary:
-The purpose of this project was to build a dynamic automated program using Python.  When used, this tool is able to perform complex, repetitive operations for any dataset, yielding hard-coded election results.  
+The purpose of this project was to build a dynamic automated program using Python.  When used, this tool is able to perform complex, repetitive operations for any dataset, yielding election results.  
 
 To apply this program to other elections, open a terminal application and follow these simple steps.
 
